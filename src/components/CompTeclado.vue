@@ -100,4 +100,19 @@ export default {
 .btn-confirma {
   background-color: var(--ballot-box-confirm-button-color);
 }
+
+@media (max-width: 900px) {
+  .urna-teclado-numerico button {
+    width: 58px;
+    height: 34px;
+    font-size: 20px;
+  }
+
+  .urna-teclado-acoes button {
+    font-size: 9px;
+    font-weight: bold;
+    width: 30%;
+    height: 35px;
+  }
+}
 </style>

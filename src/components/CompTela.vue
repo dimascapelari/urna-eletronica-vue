@@ -37,7 +37,10 @@
         <p>VERDE para CONFIRMAR</p>
       </div>
     </div>
-    <div v-if="tela == 'fim'" class="urna-tela-fim">FIM</div>
+    <div v-if="tela == 'fim'" class="urna-tela-fim">
+      FIM
+      <p>&copy; <i> Dimas Capelari 2022 </i></p>
+    </div>
   </div>
 </template>
 
@@ -123,9 +126,54 @@ export default {
 .urna-tela-fim {
   display: flex;
   justify-content: center;
+  flex-direction: column;
   align-items: center;
   font-size: 120px;
   width: 100%;
   height: 100%;
+}
+
+.urna-tela-fim p {
+  font-size: 12px;
+}
+
+@media (max-width: 900px) {
+  .urna-tela {
+    padding: 15px 18px 15px 18px;
+  }
+
+  .urna-tela-voto-titulo {
+    font-size: 15px;
+  }
+
+  .urna-tela-voto-tipo {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+
+  .urna-tela-voto-textos {
+    flex: 1;
+    font-size: 14px;
+  }
+
+  .urna-tela-voto-numero {
+    width: 20px;
+    height: 25px;
+    font-size: 20px;
+    margin-left: 7px;
+  }
+
+  .urna-tela-voto-imagem img {
+    width: 70px;
+    height: 100px;
+  }
+
+  .urna-tela-voto-instrucoes {
+    width: 80%;
+    font-size: 10px;
+    margin-top: 10px;
+    padding-top: 5px;
+  }
 }
 </style>

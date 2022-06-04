@@ -182,4 +182,13 @@ export default {
   display: flex;
   justify-content: space-between;
 }
+
+@media (max-width: 900px) {
+  .urna {
+    width: 650px;
+    height: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
 </style>
