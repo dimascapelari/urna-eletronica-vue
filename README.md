@@ -1,4 +1,4 @@
-# urna-eletronica
+# Urna Eletrônica feita em Vue.JS
 
 ## Project setup
 ```
