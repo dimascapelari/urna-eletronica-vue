@@ -131,14 +131,14 @@ export default {
             partido: "Pokemon",
             imagem:
               //  "https://raw.githubusercontent.com/william-costa/wdev-urna-eletronica-resources/master/images/ash.png",
-              "https://raw.githubusercontent.com/dimascapelari/repositorio/main/urna-eletronica/src/assets/img/ash.png",
+              "https://raw.githubusercontent.com/dimascapelari/urna-eletronica-vue/main/src/assets/img/ash.png",
           },
           "08": {
             nome: "Vegeta",
             partido: "Dragon Ball",
             imagem:
               //"https://raw.githubusercontent.com/william-costa/wdev-urna-eletronica-resources/master/images/vegeta.png",
-              "https://raw.githubusercontent.com/dimascapelari/repositorio/main/urna-eletronica/src/assets/img/vegeta.png",
+              "https://raw.githubusercontent.com/dimascapelari/urna-eletronica-vue/main/src/assets/img/vegeta.png",
           },
         },
         vereador: {
@@ -147,14 +147,14 @@ export default {
             partido: "Pokemon",
             imagem:
               //"https://raw.githubusercontent.com/william-costa/wdev-urna-eletronica-resources/master/images/pikachu.png",
-              "https://raw.githubusercontent.com/dimascapelari/repositorio/main/urna-eletronica/src/assets/img/pikachu.png",
+              "https://raw.githubusercontent.com/dimascapelari/urna-eletronica-vue/main/src/assets/img/pikachu.png",
           },
           "08001": {
             nome: "Goku",
             partido: "Dragon Ball",
             imagem:
               //"https://raw.githubusercontent.com/william-costa/wdev-urna-eletronica-resources/master/images/goku.png",
-              "https://raw.githubusercontent.com/dimascapelari/repositorio/main/urna-eletronica/src/assets/img/goku.png",
+              "https://raw.githubusercontent.com/dimascapelari/urna-eletronica-vue/main/src/assets/img/goku.png",
           },
         },
       },
