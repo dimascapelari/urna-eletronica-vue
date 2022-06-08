@@ -1,24 +1,46 @@
-# Urna Eletrônica feita em Vue.JS
+<h1 align="center">
+    Urna Eletrônica feita em Vue.JS
+</h1>
 
-## Project setup
-```
-npm install
-```
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="PROJECT" title="#PROJECT" src="https://github.com/dimascapelari/task-list-vue/blob/main/Task-list-vue.jpg" width="400px">
+</p>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<p align="center">
+  <img alt="Repository size" src="https://img.shields.io/static/v1?label=Last%20commit&message=May&color=red&style=for-the-badge&logo=Slack">
+</p>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 💻 Sobre o Projeto:
 
-### Lints and fixes files
-```
-npm run lint
-```
+Uma URNA ELETRÔNICA EM VUE.JS ???  
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Simmmmm !!! Meu projeto dessa semana é uma Urna Eletrônica com responsividade para celulares em posição horizontal... <br>
+
+Desenvolvida em Vue.JS, ela é uma réplica da famosa UE (urna eletrônica) funcionando para votação de Prefeito e depois Vereador.<br><br>
+
+Prefeitos para serem escolhidos: <br>
+01 - Nome: Ash | Partido: Pokemon <br>
+08 - Nome: Vegeta | Partido: Dragon Ball <br><br>
+
+Vereadores para serem escolhidos: <br>
+01234 - Nome: Pikachu | Partido: Pokemon <br>
+08001 - Nome: Goku | Partido: Dragon Ball <br> <br>
+
+Funciona igual uma UE de verdade, você escolhe primeiro o prefeito ou votar em BRANCO e clica em CONFIRMA.<br>
+Depois é a vez do vereador, digite o número do canditado e CONFIRMA.<br>
+Ela vai para tela de FIM tocando o famoso som da Urna Eletrônica Brasileira. Obs: aguarde 5 segundos e ela reinicia a Votação!<br>
+
+
+E como sempre venho evoluindo meus conhecimentos e estudos, resolvi encarar mais esse desafio de projeto em Vue.JS
+
+Link da aplicação (Deploy): https://urna-eletronica-vue-dimas.netlify.app/
+
+## 🛠 Tecnologias:
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Vue.JS]
+- [JavaScript]
+- [HTML5]
+- [CSS3]
+- [VsCode]
