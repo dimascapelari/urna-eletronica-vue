@@ -7,7 +7,6 @@
 </p>
 
 
-
 ## 💻 Sobre o Projeto:
 
 Uma URNA ELETRÔNICA EM VUE.JS ???  
